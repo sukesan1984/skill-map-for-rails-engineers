@@ -64,10 +64,10 @@
 - SSL
   - 適用や証明書の種類、取得方法など  △
   - Let's Encrypt △
-- Ruby
+- Ruby ⭐︎
     - メタプログラミング △
     - など
-- Rails
+- Rails ⭐︎
     - Rack △
     - Asset Pipeline △
     - spring ×
